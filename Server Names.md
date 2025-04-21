@@ -1,0 +1,9 @@
+HP440
+truenas
+docker-01
+win11gaming
+portainer
+pfsense
+synology
+bilbo
+laptop
